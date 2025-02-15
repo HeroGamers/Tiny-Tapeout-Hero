@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The input can be switched around to find the code to make the LED display show the letter "S".
 
 ## How to test
 
-Explain how to use your project
+Currently by connecting output 0 to LED display segment pins A C D F G, and IN0-7 pins to switches.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Seven segment LED display and 8 switches for the input
