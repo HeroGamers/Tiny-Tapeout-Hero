@@ -12,12 +12,8 @@ Tiny Tapeout is an educational project that aims to make it easier and cheaper t
 
 To learn more and get started, visit https://tinytapeout.com.
 
-# ToDo
-
-- Make a new project
-
 # Inspiration
 
-Potential future inspiration from Uri Shaked:
+Inspiration from Uri Shaked:
 - https://wokwi.com/projects/347069718502310484
 - https://wokwi.com/projects/378227921057396737
