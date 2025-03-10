@@ -46,15 +46,14 @@ module tt_um_wokwi_422960078645704705 (
   assign uo_out[4] = D6;
   assign uo_out[5] = D7;
 
-  // Assign the remaining pins to 0
-  assign uo_out[6] = 0;
-  assign uo_out[7] = 0;
+  // Assign the remaining pins to match their inputs (doesn't matter)
+  assign uo_out[6] = ui_in[6];
+  assign uo_out[7] = ui_in[7];
 
   //------------------------------------------------------------------------
 
   reg [5:0] counter = 6'h0;
   reg [6:0] seq = 7'h0;
-  reg enable;
   reg [4:0] data;
 
   assign {RS, D7, D6, D5, D4} = data;
