@@ -24,17 +24,12 @@ module tt_um_herogamers_heroontape (
 
   // Define the pins of the LCD (to use with our Verilog code)
   // RS: Register Select
-  wire RS;
   // E: Enable
-  wire E;
   // D4: Data 4
-  wire D4;
   // D5: Data 5
-  wire D5;
   // D6: Data 6
-  wire D6;
   // D7: Data 7
-  wire D7;
+  reg RS, E, D4, D5, D6, D7;
 
   //------------------------------------------------------------------------
 
