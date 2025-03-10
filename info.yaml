@@ -3,7 +3,7 @@ project:
   wokwi_id:     422960078645704705  # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Hero on Tape"      # Project title
   author:       "Marcus Sand"       # Your name
-  discord:      "HeroGamers"        # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  discord:      "herogamers"        # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Echoes out a predefined text onto a 16x2 character LCD."   # One line description of what your project does
   language:     "Wokwi"             # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0                   # Clock frequency in Hz (or 0 if not applicable)
